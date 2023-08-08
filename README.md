@@ -27,8 +27,8 @@ Feel free to explore the [Scripts](scripts/) directory for more details on each 
 
 To use any of the scripts in this repository, follow these steps:
 
-1. Clone the repository to your local machine: `git clone https://github.com/your-username/powershell-scripts.git`
-2. Navigate to the desired script's directory: `cd powershell-scripts/scripts/`
+1. Clone the repository to your local machine: `git clone https://github.com/rdiego28/PS_Scripts.git`
+2. Navigate to the desired script's directory: `cd PS_Scripts`
 3. Run the script using PowerShell: `./script-name.ps1`
    
 Make sure to review the script's code before running it to understand its functionality and potential impact on your system.
