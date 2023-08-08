@@ -38,4 +38,4 @@ Happy scripting!
 Diego.
 
 ---
-_Last updated: Month Day, Year_
+_Last updated: August 8, 2023
