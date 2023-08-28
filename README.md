@@ -17,6 +17,7 @@ Here's a list of some of the scripts you'll find in this repository:
 
 1. **Computer_report(html).ps1**: It generates a brief computer report in a html file.
 2. **Get_HWID.ps1**: It generates a file with the Autopilot Hardware hash.
+3. **Get_Installed_Apps.ps1**: It show us the installed applications.
 
 Feel free to explore them.
 
